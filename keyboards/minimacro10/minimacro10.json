@@ -1,7 +1,7 @@
 {
     "name": "minimacro10",
     "vendorId": "0xFEED",
-    "productId": "0x0001,
+    "productId": "0x0001",
     "lighting": "none",
     "matrix": {"rows": 5, "cols": 10},
     "layouts": {
