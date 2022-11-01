@@ -1,0 +1,6 @@
+index.309befdef3a90fd3b847.js:2 Command for 0f1f3a5c-a616-4a13-a3ae-3b85c40f21ee: Array(3)0: 01: 82: 128length: 3[[Prototype]]: Array(0) Bad Resp: Uint8Array(32)
+_hidCommand @ index.309befdef3a90fd3b847.js:2
+index.309befdef3a90fd3b847.js:2 Uncaught (in promise) Error: Receiving incorrect response for command
+    at kn._hidCommand (index.309befdef3a90fd3b847.js:2:51130)
+    at async kn.flushQueue (index.309befdef3a90fd3b847.js:2:50521)
+index.309befdef3a90fd3b847.js:2 Command for 0f1f3a5c-a616-4a13-a3ae-3b85c40f21ee: Array(3) Bad Resp: Uint8Array(32)
