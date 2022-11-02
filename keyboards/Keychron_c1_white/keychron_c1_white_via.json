@@ -2,7 +2,7 @@
   "name": "Keychron C1 White",
   "vendorId": "0x05ac",
   "productId": "0x024f",
-  "lighting": "qmk_rgblight",
+  "lighting": "none",
   "matrix": {"rows": 6, "cols": 17},
   "layouts": {
     "keymap": [
